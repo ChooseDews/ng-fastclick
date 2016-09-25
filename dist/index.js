@@ -841,6 +841,8 @@
 }());
 
 angular.module('ng-fastclick', []).run(function() {
-  FastClick.attach(document.body)
+FastClick.attach(document.body, {
+    excludeNode: '^pac-',
+});
 });
 
