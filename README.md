@@ -17,5 +17,5 @@ And lastly, in your Angular module, include `ng-fastclick` as a dependency:
 angular.module('my-app', ['ng-fastclick'])
 ```
 
-tiny tiny edit by John to make google autocomplete playwell
+## tiny tiny edit by John to make google autocomplete playwell+
 
