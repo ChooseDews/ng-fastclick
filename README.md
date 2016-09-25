@@ -4,7 +4,7 @@ This is a very thin (3 line!) Angular wrapper around the [FT's](https://github.c
 
 ## Installation
 
-In your Angular project, run `bower install --save ng-fastclick` to save the
+In your Angular project, run `bower install --save https://github.com/ChooseDews/ng-fastclick#master` to save the
 module. Then, in your HTML, add:
 
 ``` html
